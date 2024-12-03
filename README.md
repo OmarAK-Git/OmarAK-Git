@@ -9,6 +9,8 @@ Frameworks: Flask, Jinja <br/>
 
 
 # Let's Get Personal 
-I grew up too smart for my own good. Aceing external exams throughout highschool to dropping out of Engineering school, working as a server at a restaurant, and then joining an Esport team. My journey taught me that discipline, for me, was a state that required external pressure to induce. Alas, I picked up a degree, learnt how to code, and now I can say that I'm able to fully ~~bring~~ keep myself to the table. 
+I grew up too smart for my own good; aceing externals throughout highschool to dropping out of engineering school, working as a manager at a restaurant, and then becoming a professional Dota 2 player. 
+My journey taught me that discipline, for me, was a state of mind that required external pressures to induce. 
+So here we are, I picked up a degree, learnt how to code, and now I can say that I'm finally able to fully ~~bring~~ keep myself at the table. 
 
 
